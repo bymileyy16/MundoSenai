@@ -10,8 +10,8 @@ como desktops, web, dispositivos móveis, e até mesmo jogos.
 O Git é um sistema de controle de versão distribuído, 
 usado para gerenciar e registrar mudanças em projetos de software.
 git init: Inicializa um novo repositório Git.
-![alt text](image-1.png)
 
+![alt text](image-3.png)
 Abaixo, algus codigos ultilizados dentro do git:
 *git clone*: Clona um repositório remoto para seu computador local.
 
