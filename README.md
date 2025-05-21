@@ -1,6 +1,7 @@
 ## C#
  (pronunciado "C-sharp") é uma linguagem de programação desenvolvida pela Microsoft 
 como parte da sua plataforma .NET. 
+![alt text](image-4.png)
 Ela foi projetada para ser simples, moderna e segura, 
 com o objetivo de ser uma linguagem de uso geral para o 
 desenvolvimento de aplicações em diferentes tipos de dispositivos, 
